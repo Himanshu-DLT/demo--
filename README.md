@@ -6,4 +6,4 @@ OK demo
 
 
 ## Watching tutorials
-1. Open video in uy browser.
+1. Open video in your browser.
